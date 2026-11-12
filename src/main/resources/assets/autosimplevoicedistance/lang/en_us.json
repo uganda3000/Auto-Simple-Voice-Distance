@@ -1,0 +1,13 @@
+{
+  "itemGroup.autosimplevoicedistance": "Example Mod Tab",
+  "block.autosimplevoicedistance.example_block": "Example Block",
+  "item.autosimplevoicedistance.example_item": "Example Item",
+
+  "autosimplevoicedistance.configuration.title": "Auto Simple Voice Distance Configs",
+  "autosimplevoicedistance.configuration.section.autosimplevoicedistance.common.toml": "Auto Simple Voice Distance Configs",
+  "autosimplevoicedistance.configuration.section.autosimplevoicedistance.common.toml.title": "Auto Simple Voice Distance Configs",
+  "autosimplevoicedistance.configuration.items": "Item List",
+  "autosimplevoicedistance.configuration.logDirtBlock": "Log Dirt Block",
+  "autosimplevoicedistance.configuration.magicNumberIntroduction": "Magic Number Text",
+  "autosimplevoicedistance.configuration.magicNumber": "Magic Number"
+}
